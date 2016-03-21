@@ -1,5 +1,7 @@
 package com.bootcamp.model;
 
+//This is a model class
+
 public class Product {
 	
 	private String name;
