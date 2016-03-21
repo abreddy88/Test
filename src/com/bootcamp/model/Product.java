@@ -1,6 +1,7 @@
 package com.bootcamp.model;
+ 
+//This is a model class for SOAP
 
-//This is a model class
 
 public class Product {
 	
